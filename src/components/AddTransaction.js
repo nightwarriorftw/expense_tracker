@@ -46,7 +46,7 @@ export const AddTransaction = () => {
           />
         </div>
 
-        <button className="btn btn-success">Add Transaction</button>
+        <button className="btn">Add Transaction</button>
       </form>
     </div>
   );
